@@ -1,0 +1,15 @@
+D:\front end developer\Route course FullStack\Back End\Assignments\API\Talabat.Solution\Talabat.Repository\bin\Debug\net6.0\Talabat.Repository.deps.json
+D:\front end developer\Route course FullStack\Back End\Assignments\API\Talabat.Solution\Talabat.Repository\bin\Debug\net6.0\Talabat.Repository.dll
+D:\front end developer\Route course FullStack\Back End\Assignments\API\Talabat.Solution\Talabat.Repository\bin\Debug\net6.0\Talabat.Repository.pdb
+D:\front end developer\Route course FullStack\Back End\Assignments\API\Talabat.Solution\Talabat.Repository\bin\Debug\net6.0\Talabat.Core.dll
+D:\front end developer\Route course FullStack\Back End\Assignments\API\Talabat.Solution\Talabat.Repository\bin\Debug\net6.0\Talabat.Core.pdb
+D:\front end developer\Route course FullStack\Back End\Assignments\API\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.csproj.AssemblyReference.cache
+D:\front end developer\Route course FullStack\Back End\Assignments\API\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\front end developer\Route course FullStack\Back End\Assignments\API\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.AssemblyInfoInputs.cache
+D:\front end developer\Route course FullStack\Back End\Assignments\API\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.AssemblyInfo.cs
+D:\front end developer\Route course FullStack\Back End\Assignments\API\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.csproj.CoreCompileInputs.cache
+D:\front end developer\Route course FullStack\Back End\Assignments\API\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.csproj.CopyComplete
+D:\front end developer\Route course FullStack\Back End\Assignments\API\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.dll
+D:\front end developer\Route course FullStack\Back End\Assignments\API\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\refint\Talabat.Repository.dll
+D:\front end developer\Route course FullStack\Back End\Assignments\API\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.pdb
+D:\front end developer\Route course FullStack\Back End\Assignments\API\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\ref\Talabat.Repository.dll

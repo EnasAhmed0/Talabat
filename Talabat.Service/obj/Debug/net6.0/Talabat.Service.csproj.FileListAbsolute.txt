@@ -1,0 +1,15 @@
+D:\front end developer\Route course FullStack\Back End\Assignments\API\Talabat.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Service.deps.json
+D:\front end developer\Route course FullStack\Back End\Assignments\API\Talabat.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Service.dll
+D:\front end developer\Route course FullStack\Back End\Assignments\API\Talabat.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Service.pdb
+D:\front end developer\Route course FullStack\Back End\Assignments\API\Talabat.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\front end developer\Route course FullStack\Back End\Assignments\API\Talabat.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfoInputs.cache
+D:\front end developer\Route course FullStack\Back End\Assignments\API\Talabat.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfo.cs
+D:\front end developer\Route course FullStack\Back End\Assignments\API\Talabat.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.CoreCompileInputs.cache
+D:\front end developer\Route course FullStack\Back End\Assignments\API\Talabat.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.dll
+D:\front end developer\Route course FullStack\Back End\Assignments\API\Talabat.Solution\Talabat.Service\obj\Debug\net6.0\refint\Talabat.Service.dll
+D:\front end developer\Route course FullStack\Back End\Assignments\API\Talabat.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.pdb
+D:\front end developer\Route course FullStack\Back End\Assignments\API\Talabat.Solution\Talabat.Service\obj\Debug\net6.0\ref\Talabat.Service.dll
+D:\front end developer\Route course FullStack\Back End\Assignments\API\Talabat.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Core.dll
+D:\front end developer\Route course FullStack\Back End\Assignments\API\Talabat.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Core.pdb
+D:\front end developer\Route course FullStack\Back End\Assignments\API\Talabat.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.AssemblyReference.cache
+D:\front end developer\Route course FullStack\Back End\Assignments\API\Talabat.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.CopyComplete
